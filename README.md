@@ -2,7 +2,7 @@
 
 ## Team
 
-* [Your Name](https://github.com/your-github-username) — replace with your GitHub profile link
+* [Aditi Adhikari](https://github.com/aditiadhikari05) 
 * [Saudha Shaheen](https://github.com/saudhashaheen)
 
 ## What and Why?
